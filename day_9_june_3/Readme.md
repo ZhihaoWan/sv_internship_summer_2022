@@ -5,7 +5,7 @@ Today, we consolidated into 3 teams, with different goals
 ## Visualization
 
 ### Team members
-
+[Vis Group Code](https://github.com/ZhihaoWan/Visualization_CRC_Jun_3)
 * Jiran
 * Zhihao
 * Gaoyuan
