@@ -3,7 +3,7 @@ Yesterday, individuals & small groups worked at making their specific components
 Today, we consolidated into 3 teams, with different goals
 
 ## Visualization
-
+(Vis Group Code)[https://github.com/ZhihaoWan/Visualization_CRC_Jun_3]
 ### Team members
 
 * Jiran
